@@ -1,11 +1,10 @@
 # 《架構》與《指向》原稿
 
-以下兩個 TXT 是作者最初提供的原檔，逐位元組上傳，未經編修。英文譯本將另列，與原文區分；最新版本以本倉庫的提交為準。
+以下兩個中文 TXT 是作者最初提供的原檔，逐位元組上傳，未經編修。英文譯本是供對照的自動翻譯初稿，尚未逐句校對；遇有歧義，以中文原文為準。
 
-- [《架構》原檔](架構初版.txt)
-- [《指向》原檔](指向.txt)
+- [《架構》原稿閱讀版](architecture-original.html) · [未改動 TXT](架構初版.txt)
+- [《指向》原稿閱讀版](direction-original.html) · [未改動 TXT](指向.txt)
+- [Architecture 英文譯本](architecture-en.html) · [英文 TXT](Architecture_Original_EN.txt)
+- [Direction 英文譯本](direction-en.html) · [英文 TXT](Direction_Original_EN.txt)
 
-先前的《架構》編修稿仍可閱讀；它不是上述原檔：
-
-- [閱讀《架構》Markdown 正文](架構.md)
-- [下載 HTML 閱讀版](index.html)
+公開閱讀首頁：[GitHub Pages](https://tong-1004.github.io/architecture-book/)。
